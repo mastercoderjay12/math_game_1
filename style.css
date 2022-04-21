@@ -1,0 +1,20 @@
+body{
+    background-color: red;
+    text-align: center;
+}
+.login_div 
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        color: royalblue;
+	}
+    #button1{
+        background-color: royalblue;
+        color: white;
+    }
+    h1{
+        font-weight: bolder;
+        color: black;
+    }
